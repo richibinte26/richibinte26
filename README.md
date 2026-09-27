@@ -1,4 +1,4 @@
-# Hi there, I'm Richi Binte 👋
+# Hi there, I'm Richi Binte Forhad👋
 
 ### Full Stack Developer | BSc Engg. in CSE
 
@@ -60,8 +60,8 @@ A developer-focused web application for exploring and managing technology-relate
 
 **Tech:** React • TypeScript • Tailwind CSS • DaisyUI
 
-🔗 [Live Demo](YOUR_LIVE_LINK)
-🔗 [Source Code](YOUR_GITHUB_REPO_LINK)
+🔗 [Live Demo]([YOUR_LIVE_LINK](https://b14-devstack-a05.vercel.app/))
+🔗 [Source Code]([YOUR_GITHUB_REPO_LINK](https://github.com/richibinte26/b14-devstack-a05))
 
 ---
 
