@@ -60,8 +60,8 @@ A developer-focused web application for exploring and managing technology-relate
 
 **Tech:** React • TypeScript • Tailwind CSS • DaisyUI
 
-🔗 [((https://b14-devstack-a05.vercel.app/))]
-🔗 [([(https://github.com/richibinte26/b14-devstack-a05))]
+🔗 [Live Demo](https://b14-devstack-a05.vercel.app)
+🔗 [Source Code](https://github.com/richibinte26/b14-devstack-a05))
 
 ---
 
